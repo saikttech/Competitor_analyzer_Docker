@@ -1,0 +1,20 @@
+competitor_analyzer/
+├── .github/workflows/
+├── tests/
+├── .dockerignore
+├── .env
+├── .gitignore
+├── docker-compose.yml
+├── prometheus.yml
+├── requirements.txt
+├── Dockerfile
+├── config.py
+├── models.py
+├── pipeline.py
+├── celery_app.py
+├── tasks.py
+├── main.py
+├── bot.py
+├── schemas.py
+├── reranker.py
+└── langfuse_client.py
